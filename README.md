@@ -1,4 +1,4 @@
-CEH prep ,labs :- 
+CEH prep , labs :- 
 ## 📂 Project Structure
 
 This repository is organized as follows:
