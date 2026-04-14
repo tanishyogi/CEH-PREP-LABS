@@ -1,1 +1,17 @@
+This folder contains practical usage and commands of important tools:
+- **nmap.md** -> Network scanning and service detection 
+Basics: nmap <targets>
+Advanced: nmap -sC -sV -A <targets>
+
+-**gobuster.md** -> Directory and file bruteforcing
+Example: gobuster dir -u <url> -w <wordlists>
+
+-**wpscan.md** -> wordpress scanning and enumeration
+Example: wpscan --url <url> --enumerate u
+
+-**hydra.md** -> Brute force login attacks
+Example: hydra -l <users> -P <passlists> <target> ssh
+
+
+
 
